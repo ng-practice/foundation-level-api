@@ -16,6 +16,8 @@ $ yarn
 
 If you run the API you can access the [API Reference](http://localhost:3000/api) opening the following url: [http://localhost:3000/api](http://localhost:3000/api)
 
+The API endpoint listens on [http://localhost:3000](http://localhost:3000).
+
 ```bash
 $ npm run start:prod
 ```
